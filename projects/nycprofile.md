@@ -18,9 +18,7 @@ Through detailed research, the paper examines the historical development of New 
 
 Key areas of focus include:
 
-Urban planning and housing policy
-Socio-economic disparities in New York City
-Environmental sustainability and its interaction with urbanization
-The roles of various stakeholders, including residents, developers, and government agencies
+Urban planning and housing policy, socio-economic disparities in New York City
+, environmental sustainability and its interaction with urbanization, and the roles of various stakeholders, including residents, developers, and government agencies.
 
 This project deepened my understanding of urban planning challenges and the importance of integrating economic, social, and environmental factors into comprehensive policy solutions.
