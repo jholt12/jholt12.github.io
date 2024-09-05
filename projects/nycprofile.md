@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/nyc/nycprofile.jpg
+image: img/nycprofile.jpg
 title: "NYC Profile"
 date: 2024
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "A city profile of New York City"
 ---
 
-<img class="img-fluid" src="../img/nyc/nycprofile.jpg">
+<img class="img-fluid" src="../img/nycprofile.jpg">
 
 NYC Profile is an in-depth research paper that explores the complex urban dynamics of New York City, focusing on the critical issues of affordable housing and homelessness. Developed as part of my academic work, the paper provides a comprehensive analysis of the city's physical characteristics, environmental context, and socio-economic landscape.
 
