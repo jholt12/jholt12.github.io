@@ -26,7 +26,6 @@ The **Library Management System** is a C++ console application that simulates th
 ### Technologies and Concepts Used:
 - **C++**: For building the core application and managing book objects.
 - **Object-Oriented Programming**: Implementation of base class `Book` and derived classes `Fiction` and `NonFiction`.
-- **GitHub**: The source code is version controlled and hosted on GitHub.
 
 Here is a snippet from the code showing the implementation of the `Book` class and its derived classes `Fiction` and `NonFiction`:
 
