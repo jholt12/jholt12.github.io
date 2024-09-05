@@ -8,7 +8,6 @@ published: true
 labels:
   - C++
   - Object-Oriented Programming
-  - GitHub
 summary: "A C++ project to manage a library's book collection with features for adding, editing, deleting, and searching books."
 ---
 
