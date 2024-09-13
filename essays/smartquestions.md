@@ -14,11 +14,11 @@ The ability to ask good questions is an important developer skill in engaging wi
 Question:
 “New to Python/pandas. Within a column called ‘URL’, I am trying to replace any URLs that have ‘http://’, ‘https://’, or ‘www.’ and just keep everything after it.
 For example,
-	•	http://www.jhu.edu → jhu.edu
-	•	http://www.brown.edu → brown.edu
-	•	http://https://www.amherst.edu → amherst.edu
-	•	http://www.usc.edu → usc.edu”
-This question demonstrates many aspects of what Raymond has termed a "smart" question: It certainly sets the context, in that the developer is using a pandas DataFrame in Python and wants to clean up a column of URLs. There is a well-defined goal: strip off http://, https://, or www. off each URL, leaving just the domain.
+	•	*http://www.jhu.edu → jhu.edu
+	•	*http://www.brown.edu → brown.edu
+	•	*http://https://www.amherst.edu → amherst.edu
+	•	*http://www.usc.edu → usc.edu”
+This question demonstrates many aspects of what Raymond has termed a "smart" question: It certainly sets the context, in that the developer is using a pandas DataFrame in Python and wants to clean up a column of URLs. There is a well-defined goal: strip off http://, https://, or *www. off each URL, leaving just the domain.
 
 It also provides explicit examples of both input-the original URLs-and the desired output representing cleaned URLs. This will help the responders to make out the scope of what is being asked without ambiguity. Also, the developer points out quite democratically that he or she is new to Python/pandas and thus their solution invites patience from more established developers.
 It would have been a better question if it had some code that showed what the developer had attempted to do so far. Although the asker did mention a problem, showing an attempt at solving this problem would go a long way in demonstrating effort and where the fix is needed.
