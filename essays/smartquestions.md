@@ -10,7 +10,7 @@ labels:
 
 The ability to ask good questions is an important developer skill in engaging with online communities, such as StackOverflow. In the essay How to Ask Questions the Smart Way, Eric Raymond enumerates various principles developers should follow throughout the process in order to get responses efficiently and effectively. These guidelines encourage clarity, respect, and self-sufficiency, and generally contribute towards positive interaction within the developer community. In this essay, I examine two questions from StackOverflow: one that illustrates how to be "smart" when asking a question and another that exemplifies the "not smart" approach. By examining these questions, we see the effect following Raymond's rules has on the quality of the responses received.
 
-[The Smart Question: Cleaning URLs in Pandas](https://stackoverflow.com/questions/78980323/how-to-remove-http-https-or-www-from-string-in-pandas)
+The Smart Question: Cleaning URLs in Pandas
 Question:
 “New to Python/pandas. Within a column called ‘URL’, I am trying to replace any URLs that have ‘http://’, ‘https://’, or ‘www.’ and just keep everything after it.
 For example,
@@ -25,7 +25,7 @@ It would have been a better question if it had some code that showed what the de
 This general question follows very closely to Raymond's principles and is bound to get useful and efficient responses. It is, again, exemplary of how asking smart questions serves the developer and the community by clarity, politeness, and well-defined scope.
 
 Link to the question:
-[Smart Question - Cleaning URLs in Pandas](https://stackoverflow.com/questions/78980323/how-to-remove-http-https-or-www-from-string-in-pandas)
+[Smart Question - Cleaning URLs in Pandas]([https://stackoverflow.com/questions/78980323/how-to-remove-http-https-or-www-from-string-in-pandas](https://stackoverflow.com/questions/78980323/how-to-remove-http-https-or-www-from-string-in-pandas))
 
 The Not Smart Question: Retrieving Values in ABAP
 Question:
@@ -40,7 +40,7 @@ While respectful, the question is specific regarding the field to be pulled out-
 That only creates an osliction for an inefficient response since the community must first ask for clarification. Of course, herein lies part of the problem: this version of the question is "not smart.".
 
 Link to the question:
-Not Smart Question - Retrieving Values in ABAP
+[Not Smart Question - Retrieving Values in ABAP](https://stackoverflow.com/questions/78980367/abaphow-do-i-pass-or-retrieve-the-values-of-sapmf05arf05a-into-a-local-struc)
 
 By this comparison, one can note that by following Raymond's guidelines on how to ask smart questions, the chances of getting timely and proper responses are drastically improved. A smart question, such as the one on cleaning URLs in pandas, is clear, specific, and respectful to the community's time. In contrast, the ABAP example of a not-smart question needs more details and effort spent on it by the person asking the question and, therefore, helping is more burdensome for an outsider.
 
