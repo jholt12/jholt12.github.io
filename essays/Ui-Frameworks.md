@@ -73,8 +73,8 @@ Visual Side-by-Side Comparison
 
 Consider two screenshots below:
 
-1. Without Bootstrap: Just a plain web page with no styled elements, margins inconsistent, and unresponsive.
-2. With Bootstrap 5: An elegant web page whose design and layout is well-thought-out, with responsive elements; in other words, it also contains interactive elements.
+![alt text]([http://url/to/img.png](https://blog-frontend.envato.com/uploads/sites/2/2020/04/boring-websites-example-01.jpg))
+![alt text]([http://url/to/img.png](https://www.creative-tim.com/blog/content/images/wordpress/2019/01/image2-1.jpg))
 
 Why Not Just Use Raw HTML and CSS?
 
