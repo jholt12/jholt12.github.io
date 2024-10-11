@@ -25,7 +25,7 @@ One of the strong benefits of UI frameworks is that they bring uniformity to web
 Imagine you need to implement a button:
 
 With Raw HTML and CSS
-
+```ruby
 <button class="my-button">Click Me</button>
 
 .my-button {
@@ -35,11 +35,11 @@ With Raw HTML and CSS
   border: none;
   cursor: pointer;
 }
-
+```
 With Bootstrap 5
-
+```ruby
 <button class="btn btn-primary">Click Me</button>
-
+```
 This is a much better way of developing. By applying Bootstrap's own classes, we easily avoid the time wastage and ensure the button will be conformed to a repetitive style guide.
 
 Responsive Design Made Easy
@@ -47,14 +47,14 @@ Responsive Design Made Easy
 Responsive design isn't a luxury-it's a requirement. Because of Bootstrap 5's grid, it's ridiculously easy to create layouts that smoothly adapt to different screen sizes.
 
 Example: Creating a Responsive Grid
-
+```ruby
 <div class="container">
   <div class="row">
     <div class="col-md-6">Column 1</div>
     <div class="col-md-6">Column 2</div>
   </div>
 </div>
-
+```
 And that, with minimal code, gives way to a responsive design upon reaching devices.
 
 Software Engineering Benefits
@@ -73,7 +73,7 @@ Visual Side-by-Side Comparison
 
 Consider two screenshots below:
 
-	1.	Without Bootstrap: Just a plain web page with no styled elements, margins inconsistent, and unresponsive.
+1. Without Bootstrap: Just a plain web page with no styled elements, margins inconsistent, and unresponsive.
 2. With Bootstrap 5: An elegant web page whose design and layout is well-thought-out, with responsive elements; in other words, it also contains interactive elements.
 
 Why Not Just Use Raw HTML and CSS?
@@ -85,12 +85,12 @@ Bootstrap 5 Compared with Semantic UI
 Having played around with both Bootstrap 5 and Semantic UI myself, here is what I think:
 
 Bootstrap 5
-•Pros: Huge community support, great documentation, and lots of components.
-•Cons: Less intuitive class names, extra CSS needed in some cases for customization.
+* •Pros: Huge community support, great documentation, and lots of components.
+* •Cons: Less intuitive class names, extra CSS needed in some cases for customization.
 
 Semantic UI
-•Pros: More readable class names since semantic-driven is the reason behind its creation, which makes the code more intuitive.
-•Cons: Smaller community, meaning less contribution to resources or third-party integrations.
+* •Pros: More readable class names since semantic-driven is the reason behind its creation, which makes the code more intuitive.
+* •Cons: Smaller community, meaning less contribution to resources or third-party integrations.
 
 The Role of AI in Modern Development
 
