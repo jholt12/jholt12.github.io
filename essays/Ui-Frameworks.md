@@ -61,9 +61,9 @@ Software Engineering Benefits
 
 Beyond aesthetic appeal, UI frameworks nurture more robust software engineering:
 
-• Reusability: Components can easily be reused in every nook and cranny of the project, keeping code duplication low.
-• Maintainability: A shared codebase makes it simpler for multiple developers working together.
-• Scalability: Frameworks like Bootstrap are designed to take on projects from all ends of the size spectrum-from single-page sites to the most complex web apps.
+* Reusability: Components can easily be reused in every nook and cranny of the project, keeping code duplication low.
+* Maintainability: A shared codebase makes it simpler for multiple developers working together.
+* Scalability: Frameworks like Bootstrap are designed to take on projects from all ends of the size spectrum-from single-page sites to the most complex web apps.
 
 Personal Experience with Bootstrap 5
 
@@ -85,12 +85,12 @@ Bootstrap 5 Compared with Semantic UI
 Having played around with both Bootstrap 5 and Semantic UI myself, here is what I think:
 
 Bootstrap 5
-* •Pros: Huge community support, great documentation, and lots of components.
-* •Cons: Less intuitive class names, extra CSS needed in some cases for customization.
+* Pros: Huge community support, great documentation, and lots of components.
+* Cons: Less intuitive class names, extra CSS needed in some cases for customization.
 
 Semantic UI
-* •Pros: More readable class names since semantic-driven is the reason behind its creation, which makes the code more intuitive.
-* •Cons: Smaller community, meaning less contribution to resources or third-party integrations.
+* Pros: More readable class names since semantic-driven is the reason behind its creation, which makes the code more intuitive.
+* Cons: Smaller community, meaning less contribution to resources or third-party integrations.
 
 The Role of AI in Modern Development
 
