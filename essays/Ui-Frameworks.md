@@ -73,8 +73,8 @@ Visual Side-by-Side Comparison
 
 Consider two screenshots below:
 
-![alt text]([http://url/to/img.png](https://blog-frontend.envato.com/uploads/sites/2/2020/04/boring-websites-example-01.jpg))
-![alt text]([http://url/to/img.png](https://www.creative-tim.com/blog/content/images/wordpress/2019/01/image2-1.jpg))
+![alt text](https://blog-frontend.envato.com/uploads/sites/2/2020/04/boring-websites-example-01.jpg)
+![alt text](https://www.creative-tim.com/blog/content/images/wordpress/2019/01/image2-1.jpg)
 
 Why Not Just Use Raw HTML and CSS?
 
