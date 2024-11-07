@@ -1,6 +1,6 @@
 ---
-layout: proposal
-type: proposal
+layout: essay
+type: essay
 title: "Budget Tracker Application: Efficiently Manage Your Finances"
 date: 2024-11-05
 published: true
