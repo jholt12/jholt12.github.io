@@ -1,7 +1,3 @@
-Here’s a formatted project proposal for the Budget Tracker Application, using a similar structure:
-
-
-
 ---
 layout: proposal
 type: proposal
