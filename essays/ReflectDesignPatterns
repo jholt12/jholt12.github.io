@@ -2,9 +2,10 @@
 layout: essay
 type: essay
 title: "The Blueprint of Software: Understanding and Using Design Patterns"
-date: 2024-12-5
+date: 2024-12-05
 published: true
-labels: Design Patterns
+labels:
+  - Design Patterns
 ---
 The Blueprint of Software: Understanding and Using Design Patterns
 
