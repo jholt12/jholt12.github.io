@@ -5,10 +5,10 @@ title: “Reflecting on the Use of AI: Enhancing Learning in Software Engineerin
 date: 2024-12-17
 published: true
 labels:
-  •	Artificial Intelligence
-	•	Software Engineering
-	•	Education
-	•	Learning Tools
+  - Artificial Intelligence
+  - Software Engineering
+  - Education
+  - Learning Tools
 ---
 
 I. Introduction
