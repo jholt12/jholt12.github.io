@@ -11,6 +11,9 @@ labels:
   - Team Projects
 ---
 
+<img class="img-fluid" src="../img/sail.png">
+
+
 ## Overview
 
 **Sail Kokokahi** is a social and recreational club established in 2022 to connect individuals who share a love for recreational boat sailing. Located at Kaneohe Bay on Oahu, Hawaii, the club relies on its "Work, Play, Pay" policy to ensure every member contributes to its growth through volunteer work and social engagement. This policy requires members to fulfill an annual quota of 6 volunteer hours, tracked through activities such as:
