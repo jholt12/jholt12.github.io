@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python","Bootstrap","Next.js","HTML","Typescript","React","Javascript"]
     },
     {
       "name": "Toolsets/OS",
@@ -37,7 +37,17 @@
       "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
-      ]
+      ],
     }
+  ],
+  "Work": [
+    {
+      "name":"Interstel Technologies",
+       "area": "Programming Intern",
+      "startDate": "2024",
+      "endDate": "Present",
+    }
+
+
   ]
 }
