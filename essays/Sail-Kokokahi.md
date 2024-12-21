@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: essay
+type: essay
 title: 'Sail Kokokahi Volunteer Hours Management Application'
 date: '2024-12-17'
 published: true
