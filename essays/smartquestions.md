@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Importance of Asking Smart Questions for Software Engineers"
 date: 2024-09-12
-published: true
+published: false
 labels:
 - Software Engineering
 ---
