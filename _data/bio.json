@@ -40,14 +40,14 @@
       ],
     }
   ],
-  "Work": [
+ "work": [
     {
-      "name":"Interstel Technologies",
-       "area": "Programming Intern",
+      "company": "Interstel Technologies",
+      "position": "Programming Intern",
+      "website": "https://www.interstel.tech/",
       "startDate": "2024",
       "endDate": "Present",
+      "summary": "Programmer for iCOSMOS",
     }
-
-
   ]
 }
