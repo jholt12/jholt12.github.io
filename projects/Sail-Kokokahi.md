@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: 'Sail Kokokahi Volunteer Hours Management Application'
-date: '2024-12-17'
+date: '2024'
 published: true
 labels:
   - Software Engineering
