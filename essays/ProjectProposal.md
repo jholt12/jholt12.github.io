@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Budget Tracker Application: Efficiently Manage Your Finances"
 date: 2024-11-05
-published: true
+published: false
 labels:
   - Budget Tracker
   - TypeScript
