@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Coding Standards-Cornerstone of Software Quality"
 date: 2024-09-26
-published: true
+published: false
 labels:
   - ESLint
 ---
