@@ -4,7 +4,7 @@ type: project
 image: img/nycprofile.jpg
 title: "NYC Profile"
 date: 2024
-published: true
+published: false
 labels:
   - Educational
 summary: "A city profile of New York City"
