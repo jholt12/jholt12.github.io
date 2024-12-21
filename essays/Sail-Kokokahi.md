@@ -36,7 +36,7 @@ I designed and implemented a unified **Profile and Settings Management Page** th
 This streamlined design reduces complexity and ensures that members can manage their information in a single, user-friendly interface.
 
 **Screenshot**  
-<img src="/img/profile-settings.png" alt="Profile and Settings Page" width="600px" style="border: none; box-shadow: none;">
+<img src="/img/profile-settings.png" alt="Profile and Settings Page" width="600px">
 
 ---
 
@@ -48,7 +48,7 @@ I developed the **Create Account Page**, which provides a simple and intuitive i
 This page ensures a smooth onboarding process for new members, encouraging greater participation in the club’s activities.
 
 **Screenshot**  
-<img src="/img/create-account.png" alt="Create Account Page" width="600px" style="border: none; box-shadow: none;">
+<img src="/img/create-account.png" alt="Create Account Page" width="600px">
 
 ---
 
@@ -61,8 +61,8 @@ I contributed significantly to the **Admin Dashboard**, which provides administr
 These features give administrators a comprehensive view of the club’s engagement and simplify the process of managing billing and hour approvals.
 
 **Screenshots**  
-<img src="/img/admin-dashboard-progress.png" alt="Admin Dashboard - Progress Bars" width="600px" style="border: none; box-shadow: none;">
-<img src="/img/admin-dashboard-table.png" alt="Admin Dashboard - Users Table" width="600px" style="border: none; box-shadow: none;">
+<img src="/img/admin-dashboard-progress.png" alt="Admin Dashboard - Progress Bars" width="600px">
+<img src="/img/admin-dashboard-table.png" alt="Admin Dashboard - Users Table" width="600px">
 
 
 ---
