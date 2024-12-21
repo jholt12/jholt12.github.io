@@ -36,7 +36,7 @@ I designed and implemented a unified **Profile and Settings Management Page** th
 This streamlined design reduces complexity and ensures that members can manage their information in a single, user-friendly interface.
 
 **Screenshot**  
-![Profile and Settings Page](img/profile-settings.png)
+![Profile and Settings Page](/img/profile-settings.png)
 
 ---
 
@@ -48,7 +48,7 @@ I developed the **Create Account Page**, which provides a simple and intuitive i
 This page ensures a smooth onboarding process for new members, encouraging greater participation in the club’s activities.
 
 **Screenshot**  
-![Create Account Page](img/create-account.png)
+![Create Account Page](/img/create-account.png)
 
 ---
 
@@ -61,8 +61,8 @@ I contributed significantly to the **Admin Dashboard**, which provides administr
 These features give administrators a comprehensive view of the club’s engagement and simplify the process of managing billing and hour approvals.
 
 **Screenshots**  
-![Admin Dashboard - Progress Bars](img/admin-dashboard-progress.png)  
-![Admin Dashboard - Users Table](img/admin-dashboard-table.png)
+![Admin Dashboard - Progress Bars](/img/admin-dashboard-progress.png)  
+![Admin Dashboard - Users Table](/img/admin-dashboard-table.png)
 
 ---
 
@@ -96,4 +96,4 @@ Developing the Sail Kokokahi application reinforced the importance of understand
 
 The Sail Kokokahi project was a rewarding opportunity to apply software engineering principles to solve a real-world problem. My contributions to the Volunteer Hours Management Application helped transform the club’s manual tracking process into an efficient, automated system that fosters transparency, engagement, and accountability. This experience not only deepened my technical expertise but also highlighted the impact of well-designed software in supporting community-focused organizations.
 
-To learn more about this project or view the source code, visit the **[Sail Kokokahi GitHub Organization](https://github.com/Sail-Kokokahi)**.
+To learn more about this project or view the source code, visit the **[Sail Kokokahi GitHub Organization](Sail-Kokokahi.github.io)**.
