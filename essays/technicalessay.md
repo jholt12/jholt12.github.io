@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Journey of Software Engineering: Skills I Aim to Develop"
 date: 2024-09-4
-published: true
+published: false
 labels:
   - Software Engineering
 ---
