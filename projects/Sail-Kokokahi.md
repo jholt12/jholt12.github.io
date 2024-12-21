@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/sail.png
 title: 'Sail Kokokahi Volunteer Hours Management Application'
 date: '2024'
 published: true
@@ -10,9 +11,6 @@ labels:
   - Volunteer Management
   - Team Projects
 ---
-
-<img class="img-fluid" src="../img/sail.png">
-
 
 ## Overview
 
